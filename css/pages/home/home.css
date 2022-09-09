@@ -1,0 +1,26 @@
+table{
+    border-collapse: collapse;
+}
+th{
+    font-weight: 500;
+    font-size: 14px;
+    padding: 5px 15px;
+}
+td{
+    text-align: center;
+    font-size: 14px;
+    padding: 3px 10px;
+}
+.btn{
+    cursor: pointer;
+    padding: 3px 10px;
+    border-radius: 3px;
+    border: none;
+    outline: none;
+    background-color: green;
+    color: white;
+    font-size: 14px;
+}
+a{
+    text-decoration: none;
+}
